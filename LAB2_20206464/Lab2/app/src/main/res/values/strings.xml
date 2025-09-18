@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2</string>
+
+    <string name="title_network_equipment">Gestión de Equipos de Red</string>
+    <string name="title_routers">Routers</string>
+    <string name="title_switches">Switches</string>
+    <string name="title_access_points">Access Points</string>
+    <string name="title_report">Reporte</string>
+
+    <string name="btn_routers">ROUTERS</string>
+    <string name="btn_switches">SWITCHES</string>
+    <string name="btn_access_points">ACCESS POINTS</string>
+    <string name="btn_report">REPORTE</string>
+
+    <string name="hint_brand">Marca</string>
+    <string name="hint_model">Modelo</string>
+    <string name="label_status">Estado</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_cancel">Cancelar</string>
+
+    <string name="hint_supported_speed">Velocidad soportada</string>
+    <string name="title_new_router">Nuevo Router</string>
+    <string name="title_edit_router">Editar Router</string>
+
+    <string name="hint_port_count">Número de puertos</string>
+    <string name="label_type">Tipo</string>
+    <string name="title_new_switch">Nuevo Switch</string>
+    <string name="title_edit_switch">Editar Switch</string>
+
+    <string name="label_frequency">Frecuencia</string>
+    <string name="title_new_ap">Nuevo Access Point</string>
+    <string name="title_edit_ap">Editar Access Point</string>
+
+    <string name="status_operational">Operativo</string>
+    <string name="status_repair">En reparación</string>
+    <string name="status_decommissioned">Dado de baja</string>
+
+    <string name="switch_manageable">Administrable</string>
+    <string name="switch_non_manageable">No Administrable</string>
+
+    <string name="frequency_2_4">2.4 GHz</string>
+    <string name="frequency_5">5GHz</string>
+    <string name="frequency_dual">Dual Band</string>
+
+    <string name="no_routers">No hay routers registrados</string>
+    <string name="no_switches">No hay switches registrados</string>
+    <string name="no_access_points">No hay access points registrados</string>
+    <string name="no_equipment">No hay equipos registrados</string>
+
+    <string name="label_brand">Marca: </string>
+    <string name="label_model">Modelo: </string>
+    <string name="label_speed">Velocidad soportada: </string>
+    <string name="label_ports">Número de puertos: </string>
+    <string name="label_frequency_label">Frecuencia: </string>
+    <string name="label_status_label">Estado: </string>
+    <string name="label_type_label">Tipo: </string>
+
+    <string name="dialog_delete_router_title">Eliminar Router</string>
+    <string name="dialog_delete_router_message">¿Está seguro de eliminar este router?</string>
+    <string name="dialog_delete_switch_title">Eliminar Switch</string>
+    <string name="dialog_delete_switch_message">¿Está seguro de eliminar este switch?</string>
+    <string name="dialog_delete_ap_title">Eliminar Access Point</string>
+    <string name="dialog_delete_ap_message">¿Está seguro de eliminar este access point?</string>
+
+    <string name="error_empty_brand">Ingrese la marca</string>
+    <string name="error_empty_model">Ingrese el modelo</string>
+    <string name="error_empty_speed">Ingrese la velocidad soportada</string>
+    <string name="error_empty_ports">Ingrese el número de puertos</string>
+    <string name="error_invalid_number">Ingrese un número válido</string>
+    <string name="error_ports_positive">El número de puertos debe ser mayor a 0</string>
+</resources>
